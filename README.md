@@ -5,6 +5,33 @@ Count challenge made on ReactChallenges.com to start the depth of useState()
 
 
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ReactChallenges/count-challenge-j
+```
+
+Go to the project directory
+
+```bash
+  cd count-challenge-j
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
 ## Versions
 
 · [NextJs](https://nextjs.org) (13.5.6)
